@@ -9,4 +9,7 @@ import Foundation
 
 struct Constants {
     static let noteCell = "NoteCell"
+    static let addNewNote = "AddNewNote"
+    static let addNote = "AddNote"
+    static let create = "Create"
 }

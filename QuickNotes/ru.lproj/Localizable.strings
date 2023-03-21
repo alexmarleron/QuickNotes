@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  QuickNotes
+
+  Created by san on 21.03.2023.
+  
+*/
+"AddNewNote" = "Добавьте новую заметку";
+"AddNote" = "Добавить заметку";
+"Create" = "Создайте заметку";
