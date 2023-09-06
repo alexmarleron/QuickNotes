@@ -7,7 +7,7 @@
 
 import Foundation
 
-class Note: Encodable {
+class Note: Codable {
     var title: String = ""
     var description: String = ""
 //    let mark: Bool 

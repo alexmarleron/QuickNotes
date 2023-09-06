@@ -12,4 +12,7 @@ struct Constants {
     static let addNewNote = "AddNewNote"
     static let addNote = "AddNote"
     static let create = "Create"
+    static let editNote = "EditNote"
+    static let updateNote = "UpdateNote"
 }
+

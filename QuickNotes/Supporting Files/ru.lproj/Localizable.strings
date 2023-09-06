@@ -2,9 +2,11 @@
   Localizable.strings
   QuickNotes
 
-  Created by san on 21.03.2023.
+  Created by san on 22.03.2023.
   
 */
 "AddNewNote" = "Добавьте новую заметку";
 "AddNote" = "Добавить заметку";
 "Create" = "Создайте заметку";
+"EditNote" = "Редактирование заметки";
+"UpdateNote" = "Обновить";
